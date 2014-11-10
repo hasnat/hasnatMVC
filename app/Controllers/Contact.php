@@ -4,7 +4,7 @@ namespace hasnatMVC\App\Controllers;
 /**
  * Class for Contact controller
  */
-class Contact extends \hasnatMVC\Controller
+class Contact extends \hasnatMVC\BaseController
 {
 	/**
 	 * This will be called if no action is provided in url

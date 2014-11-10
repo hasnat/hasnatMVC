@@ -3,7 +3,7 @@ namespace hasnatMVC\App\Models;
 /**
 * ContactSender model sender details of sender (name ,email, phone)
 */
-class ContactSender extends \hasnatMVC\Model
+class ContactSender extends \hasnatMVC\BaseModel
 {
 	/** @var string sender name */
 	public $name;

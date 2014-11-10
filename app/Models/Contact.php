@@ -3,7 +3,7 @@ namespace hasnatMVC\App\Models;
 /**
 * Contact model class has sender and message
 */
-class Contact extends \hasnatMVC\Model
+class Contact extends \hasnatMVC\BaseModel
 {
 	/** @var ContactSender sender */
 	public $sender;
