@@ -1,5 +1,6 @@
 {
-    
+   "name": "hasnat/hasnatMVC",
+    "version": "0.1", 
     "require-dev": {
         "phpdocumentor/phpdocumentor": "2.*",
         "phpunit/phpunit": "3.7.*"
